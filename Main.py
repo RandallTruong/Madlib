@@ -1,4 +1,5 @@
 def main():
+    # Initialize variables
     adjective1 = input("Please enter an Adjective: ")
     adjective2 = input("Please enter another Adjective: ")
     bird = input("Please enter a bird: ")
@@ -14,7 +15,7 @@ def main():
     verb_ending_ing2 = input("Please enter another verb ending in ING: ")
     noun2 = input("Please enter one last noun: ")
 
-
+    # Display paragraph
     print(f"It was {adjective1}, cold November day. I woke up to the {adjective2}"
           f" smell of {bird} roasting in the {room} downstairs. I {verb_past_tense} down the stairs"
           f" to see if I could help {verb} the dinner. My mom said, \"See if {relative_name} needs a fresh"
