@@ -21,8 +21,6 @@ def main():
           f" to see if I could help {verb} the dinner. My mom said, \"See if {relative_name} needs a fresh"
           f"{noun}.\" So I carried a tray of glasses full of {liquid} into the {verb_ending_ing} room. When I got there, I"
           f" could not believe my {body_part_}! There were {plural_noun} {verb_ending_ing2} on the {noun2}!")
-
-    # Print entire paragraph
     pass
 
 
